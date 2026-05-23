@@ -648,6 +648,16 @@ a.button {
   min-height: 15rem;
 }
 
+.scrap-card img {
+  display: block;
+  width: 50%;
+  max-width: 100%;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  border-radius: 14px;
+  margin: 0 auto 0.8rem;
+}
+
 .scrap-card.hidden {
   display: none;
 }
