@@ -571,6 +571,7 @@ a.button {
 .pet-banner,
 .scrapbook-tools,
 .memory-board {
+    padding: 1rem;
   display: grid;
   gap: 0.8rem;
   align-content: start;
